@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You found my ✨ _special_ ✨ repository!
+
 <!--
 **jeremybuis/jeremybuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
