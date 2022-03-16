@@ -2,7 +2,7 @@
 
 You found my ✨ _special_ ✨ repository!
 
-<img class="img" id="xss123" name="xss123" title="xss123" src="//jkq.ca/xss123" height=50 width=50 alt="undefined"/>
+<img class="img" id="xss123" name="xss123" title="xss123" src="https://jkq.ca/xss123" height=50 width=50 alt="undefined" data-undefined=undefined/>
 
 **Bug Bounty**
 
