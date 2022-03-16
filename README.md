@@ -20,6 +20,10 @@ You found my ✨ _special_ ✨ repository!
 - [CVE-2019-15848 Reflected XSS in JetBrains Teamcity](https://blog.jetbrains.com/blog/2019/09/26/jetbrains-security-bulletin-q2-2019/) 
 - [CVE-2018-2625, XXE in Oracle Weblogic](https://www.oracle.com/security-alerts/cpujan2018.html)
 
+**Coding**
+
+- [Vulnerable JavaScript Server](https://github.com/Reshift-Security/durian)
+
 <img class="undefined" id="undefined" name="undefined" title="undefined" src="https://jkq.ca/xss123/image.png" height=1 width=1 alt="" data-canonical-source="undefined"/>
 
 <!--
